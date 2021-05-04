@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Programowanie-interfejsow-web-lab4/static/css/main.e71b4dff.chunk.css",
+    "main.js": "/Programowanie-interfejsow-web-lab4/static/js/main.107d476d.chunk.js",
+    "main.js.map": "/Programowanie-interfejsow-web-lab4/static/js/main.107d476d.chunk.js.map",
+    "runtime-main.js": "/Programowanie-interfejsow-web-lab4/static/js/runtime-main.b9579d77.js",
+    "runtime-main.js.map": "/Programowanie-interfejsow-web-lab4/static/js/runtime-main.b9579d77.js.map",
+    "static/js/2.b0aae94a.chunk.js": "/Programowanie-interfejsow-web-lab4/static/js/2.b0aae94a.chunk.js",
+    "static/js/2.b0aae94a.chunk.js.map": "/Programowanie-interfejsow-web-lab4/static/js/2.b0aae94a.chunk.js.map",
+    "static/js/3.929835ed.chunk.js": "/Programowanie-interfejsow-web-lab4/static/js/3.929835ed.chunk.js",
+    "static/js/3.929835ed.chunk.js.map": "/Programowanie-interfejsow-web-lab4/static/js/3.929835ed.chunk.js.map",
+    "index.html": "/Programowanie-interfejsow-web-lab4/index.html",
+    "static/css/main.e71b4dff.chunk.css.map": "/Programowanie-interfejsow-web-lab4/static/css/main.e71b4dff.chunk.css.map",
+    "static/js/2.b0aae94a.chunk.js.LICENSE.txt": "/Programowanie-interfejsow-web-lab4/static/js/2.b0aae94a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9579d77.js",
+    "static/js/2.b0aae94a.chunk.js",
+    "static/css/main.e71b4dff.chunk.css",
+    "static/js/main.107d476d.chunk.js"
+  ]
+}
